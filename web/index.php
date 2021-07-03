@@ -282,11 +282,11 @@
 						</div>
 					</form>
                     <div class="mapa">
-                        <a href="https://goo.gl/maps/mmrK2eUGrD4xKCRPA" target="_blank"><img src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-61.3,-38.982,14,0/800x600?access_token=pk.eyJ1IjoibGVvY2Fwb3JpY2NpIiwiYSI6ImNrY2ZsZ3N4NjAyYzUzMXM4cTdramZ2aDAifQ.LC0427arsb0hP1pUy26JXA&attribution=false&logo=false" alt="Mapa de Monte Hermoso"></a>
+                        <a href="https://goo.gl/maps/33EEmmv5euf6x3uBA" target="_blank"><img src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-58.14240428206472,-32.22515584756239,14,0/800x600?access_token=pk.eyJ1IjoiZW1pcndlYiIsImEiOiJja3FnMmxxM2IwdWFwMnhwZTV0dHkwZHQwIn0.w8PTNo02lbwRfbk7_vCrVg&attribution=false&logo=false" alt="Mapa de Colon"></a>
                     </div>
                     <br>
                     <ul>
-                        <li>+54 9 2921 40-8809</li>
+                        <li>+54 9 344 751-8811</li>
                     </ul>
 					<ul class="icons">
 						<li><a href="https://wa.me/5493447518811?text=Me%20interesa%20saber%20más%20del%20servicio" target="_blank" class="icon brands fa-whatsapp"><span class="label">WhatsApp</span></a></li>
