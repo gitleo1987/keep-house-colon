@@ -289,13 +289,13 @@
                         <li>+54 9 2921 40-8809</li>
                     </ul>
 					<ul class="icons">
-						<li><a href="https://wa.me/5492921408809?text=Me%20interesa%20saber%20más%20del%20servicio" target="_blank" class="icon brands fa-whatsapp"><span class="label">WhatsApp</span></a></li>
+						<li><a href="https://wa.me/5493447518811?text=Me%20interesa%20saber%20más%20del%20servicio" target="_blank" class="icon brands fa-whatsapp"><span class="label">WhatsApp</span></a></li>
 						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 
 					<ul class="copyright">
-						<li>Keep-House Cuidado y mantenimiento de propiedades. De Alejandro Lemus – Monte Hermoso</li>
+						<li>Keep-House Cuidado y mantenimiento de propiedades. De Marcelo Lemus – Colón – Entre Ríos</li>
 					</ul>
 
 				</div>
